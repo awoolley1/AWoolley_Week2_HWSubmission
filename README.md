@@ -1,7 +1,8 @@
 
 Decription: 
 -Responsive Portfolio web-design (I have created 3 repsonive webpages - About Me, Portfolio, and Contact to showcase my work.)
--Submission date of 11/14/2020
+-Initial submission date of 11/14/2020
+-Resubmission date with project links added submitted on 1/11/2021
 
 Screenshots:
 ![Screenshot 1](./Assets/Images/Capture1.PNG)
